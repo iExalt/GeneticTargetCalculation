@@ -1,0 +1,7 @@
+﻿  functions.cpp
+c:\users\clement\documents\visual studio 2017\projects\genetic_programming_1_test\genetic_programming_1_test\functions.cpp(248): warning C4018: '<': signed/unsigned mismatch
+c:\users\clement\documents\visual studio 2017\projects\genetic_programming_1_test\genetic_programming_1_test\functions.cpp(278): warning C4018: '<': signed/unsigned mismatch
+c:\users\clement\documents\visual studio 2017\projects\genetic_programming_1_test\genetic_programming_1_test\functions.cpp(315): warning C4018: '<': signed/unsigned mismatch
+c:\users\clement\documents\visual studio 2017\projects\genetic_programming_1_test\genetic_programming_1_test\functions.cpp(355): warning C4018: '<': signed/unsigned mismatch
+  Genetic_Programming_1_Test.vcxproj -> C:\Users\Clement\documents\visual studio 2017\Projects\Genetic_Programming_1_Test\Debug\Genetic_Programming_1_Test.exe
+  Genetic_Programming_1_Test.vcxproj -> C:\Users\Clement\documents\visual studio 2017\Projects\Genetic_Programming_1_Test\Debug\Genetic_Programming_1_Test.pdb (Partial PDB)
